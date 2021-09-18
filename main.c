@@ -2,5 +2,6 @@
 main () {
         factorial();
         biggest3();
+	reverse();
 }
 
